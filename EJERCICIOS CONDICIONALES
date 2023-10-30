@@ -1,0 +1,9 @@
+Ejercicio 1: Escribe un programa que solicite al usuario su edad y muestre un mensaje indicando si es mayor de edad o no.​ let edad= prompt("¿Cual es tu edad?")
+
+if (edad >= 18) {
+    alert("Eres mayor de edad");
+}
+
+else {
+    alert ("Eres menor de edad")
+}
